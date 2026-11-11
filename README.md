@@ -44,7 +44,7 @@ Praticar lógica de programação, estruturas condicionais, laços de repetiçã
 
 
 
-Pedro Igor Reis Braga
+Pedro Reis
 
 
 
