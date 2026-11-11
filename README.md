@@ -10,11 +10,11 @@ Primeiro projeto publicado no GitHub durante meus estudos de Análise e Desenvol
 
 
 
-\- Soma
-\- Subtração
-\- Multiplicação
-\- Divisão
-\- Menu interativo
+- Soma
+- Subtração
+- Multiplicação
+- Divisão
+- Menu interativo
 
 
 
