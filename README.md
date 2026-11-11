@@ -36,7 +36,7 @@ Primeiro projeto publicado no GitHub durante meus estudos de Análise e Desenvol
 
 
 
-Praticar lógica de programação, estruturas condicionais, laços de repetição e operações matemáticas utilizando a linguagem C.
+Praticar os fundamentos da programação utilizando a linguagem C, aplicando conceitos de lógica de programação, estruturas condicionais, laços de repetição e operações matemáticas.
 
 
 
