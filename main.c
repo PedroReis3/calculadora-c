@@ -51,19 +51,14 @@ int main(){
 				    	printf("\nErro: Divisao por zero nao existe!\n");
 				    }
 				    else{
-				        divisao = (float)primeiroNumero / segundoNumero;
-				
-				        printf("\nResultado da divisao: %d / %d = %.2f\n",
-				               primeiroNumero,
-				               segundoNumero,
-				               divisao);
+				        divisao = (float)primeiroNumero / segundoNumero;				
+				        printf("\nResultado da divisao: %d / %d = %.2f\n", primeiroNumero, segundoNumero, divisao);
 					}
 				break;
 					
 				case 5: 
 					printf("\nFechando.. obrigado!");
 				break;
-				
 			}
     	}
 	} 
