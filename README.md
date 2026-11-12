@@ -21,9 +21,10 @@ Praticar os fundamentos da programação utilizando a linguagem C, aplicando con
 
 ## Observações
 
-- A calculadora foi desenvolvida para trabalhar com números inteiros.
-- Não há suporte para números decimais.
-- Há validação das opções do menu e da divisão por zero.
+- A entrada de dados é limitada a números inteiros.
+- Resultados de divisões podem gerar valores decimais.
+- O programa realiza validação das opções do menu.
+- O programa impede divisões por zero.
 
 ## Conceitos Praticados
 
